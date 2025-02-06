@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: love hiking
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angiebow&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angiebow&hide_progress=false)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Angie's GitHub stats](https://github-readme-stats.vercel.app/api?username=angiebow)](https://github.com/angiebow/github-readme-stats)
