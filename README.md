@@ -1,7 +1,7 @@
 ## Hi there, it's me Angie 👋
 
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
+![](https://github.com/angiebow/angiebow/blob/master/generated/overview.svg)
+![](https://github.com/angiebow/angiebow/blob/master/generated/languages.svg)
 
 <!--
 **angiebow/angiebow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
