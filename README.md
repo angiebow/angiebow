@@ -1,4 +1,7 @@
-## Hi there, it's me 👋
+## Hi there, it's me Angie 👋
+
+![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
+![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
 
 <!--
 **angiebow/angiebow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,5 +38,3 @@ Here are some ideas to get you started:
 [![Angie's GitHub stats](https://github-readme-stats.vercel.app/api?username=angiebow)](https://github.com/angiebow/github-readme-stats)
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
