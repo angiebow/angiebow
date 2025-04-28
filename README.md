@@ -1,4 +1,4 @@
-## Hi there, it's me Angie <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> 
+## <h1 align="center">Hi there, it's me Angie <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 
 <h3>Things I code with</h3>
 <p>
