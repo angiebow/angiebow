@@ -28,7 +28,7 @@
 <h3>Where to find me</h3>
 <p><a href="https://github.com/angiebow" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://x.com/Raindrops299791" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/pelangimasita/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@pelangimasita18" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://www.instagram.com/itsrainbowhere_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-  [![Gmail Badge](https://img.shields.io/badge/-pelangimasita18@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pelangimasita18@gmail.com)](mailto:pelangimasita18@gmail.com)]
+https://img.shields.io/badge/-pelangimasita18@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pelangimasita18@gmail.com)](mailto:pelangimasita18@gmail.com)
 </p>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
