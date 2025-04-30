@@ -48,4 +48,8 @@
 <a href="https://www.instagram.com/itsrainbowhere_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
 </p>
 
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=0G1C8Nx25PMbVWYsWBhFaR&count=5">
+</p>
+
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
