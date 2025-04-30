@@ -1,9 +1,16 @@
 ## <h1 align="center">Hi there, it's me Angie <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 
+<p align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angiebow&langs_count=5)
+</p>
 
+<p align="center">
 [![Angie's GitHub stats](https://github-readme-stats.vercel.app/api?username=angiebow)](https://github.com/angiebow/github-readme-stats)
+</p>
 
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=angiebow&theme=onedark&column=-1" />
+</p>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=angiebow&theme=github-dark-dimmed&custom_title=Angiebow%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
