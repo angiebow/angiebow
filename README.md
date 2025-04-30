@@ -4,6 +4,9 @@
 
 [![Angie's GitHub stats](https://github-readme-stats.vercel.app/api?username=angiebow)](https://github.com/angiebow/github-readme-stats)
 
+
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=angiebow&theme=github-dark-dimmed&custom_title=Angiebow%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
