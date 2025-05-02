@@ -1,6 +1,5 @@
 ## <h1 align="center">Hi there, it's me Angie <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 
-![spotify-github-profile](/img/default.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angiebow&langs_count=5)
 
